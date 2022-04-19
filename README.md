@@ -2,8 +2,13 @@
  tugas kelompok 4
 <b><br>
 <p>Program Informasi Rental Mobil Online Dengan menggunakan Web yaitu sebuah aplikasi program web yang dibangun bagi mempermudah kustomer pada memesan atau booking mobil rental. Program ini dilengkapi dengan fitur login multi user, registrasi user, katalog mobil, data sewa, report dan lain sebagainya.
+ <p><b><i>Source Code ini Di Bangun Menggunakan Php sebagai Backend Dan Frontend, Application ini di buat oleh Kelompok 4 Prodi Informatika B2.1. UNBARA :</i></b><br></p>
+<b><i>1. Suhendra Berta</i></b><br>
+<b><i>2. Tegar Rahmatullah</i></b><br>
+<b><i>3. Muhammad Khadafi</i></b><br>
+ <br>
 Keperluan Program :</p>
-<br>
+
 Database MySQL
 Xampp / PHP 5.6
 Cara menjalankan program :
