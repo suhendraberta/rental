@@ -39,3 +39,8 @@ Ganti Password<p>
 Report-laporan<p>
 LogOut<p>
 dan lainnya.</b>
+![Screenshot_23](https://user-images.githubusercontent.com/99938598/163903596-ff144655-5cf1-4137-8cc1-3cd461c17198.png)
+![Screenshot_24](https://user-images.githubusercontent.com/99938598/163903607-89efaba1-f86f-48b5-aefd-20c7eb505b1c.png)
+![Screenshot_25](https://user-images.githubusercontent.com/99938598/163903610-8a0dda8b-d913-4a65-82db-7697b8307eae.png)
+![Screenshot_26](https://user-images.githubusercontent.com/99938598/163903613-67d556b0-4b40-48b1-a843-f6db65708279.png)
+![Screenshot_27](https://user-images.githubusercontent.com/99938598/163903616-b336005d-2421-4c20-b111-38580cf1db70.png)
